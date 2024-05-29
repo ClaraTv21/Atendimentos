@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 
+
+#fhfnfj
 #TABELA REPETIÇÃO
 #lê a planilha do excel e inicializa ela como data frame
 df = pd.read_excel("relatorio8.xlsx")
